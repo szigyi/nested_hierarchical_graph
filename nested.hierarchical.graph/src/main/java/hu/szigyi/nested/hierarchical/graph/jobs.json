@@ -1,0 +1,66 @@
+{
+    "graph": {
+        "nodes": [
+            {
+                "id": "3",
+                "label": "lop",
+                "nodes": [{
+                    "id": "5"
+                    "label": "lop",
+                }]
+            },
+            {
+                "name": "vadas",
+                "id": "2"
+            },
+            {
+                "label": "marko",
+                "id": "1"
+            },
+            {
+                "label": "peter",
+                "id": "6"
+            },
+            {
+                "label": "ripple",
+                "id": "5"
+            },
+            {
+                "label": "josh",
+                "id": "4"
+            }
+        ],
+        "edges": [
+            {
+                "id": "10",
+                "source": "4",
+                "target": "5"
+            },
+            {
+                "id": "7",
+                "source": "1",
+                "target": "2"
+            },
+            {
+                "id": "9",
+                "source": "1",
+                "target": "3"
+            },
+            {
+                "id": "8",
+                "source": "1",
+                "target": "4"
+            },
+            {
+                "id": "11",
+                "source": "4",
+                "target": "3"
+            },
+            {
+                "id": "12",
+                "source": "6",
+                "target": "3"
+            }
+        ]
+    }
+}
